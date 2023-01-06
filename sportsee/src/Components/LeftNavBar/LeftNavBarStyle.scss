@@ -1,0 +1,28 @@
+.leftnavbarcontainer{
+  height: 1000px;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  width: 8%;
+}
+.logoContainer{
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  width: 100%;
+  align-items: center;
+}
+.background-logo-left{
+  background-color: white;
+  height: 50px;
+  width: 50px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+.logo-img{
+  width: 30px;
+  height: 30px;
+}
